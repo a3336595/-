@@ -1,6 +1,6 @@
-<mxfile version="13.3.5" type="github" host="app.diagrams.net" modified="2020-06-29T02:35:20.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" etag="TOXdQVJh3zZtit_tT8Oe">
-  <diagram id="1W9tenC9EPOtmQsNZbMY" name="Page-1">
-    <mxGraphModel grid="1" dx="2031" dy="1131" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile version="13.3.5" type="github" host="app.diagrams.net" modified="2020-06-29T06:50:52.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" etag="t8q3Hz2rlFBsvQFHl2sf" pages="2">
+  <diagram id="1W9tenC9EPOtmQsNZbMY" name="第三方接入流程">
+    <mxGraphModel grid="1" dx="1422" dy="792" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,6 +68,56 @@
         </mxCell>
         <mxCell id="tTeLUpIS2OsSrGD9bRgm-25" parent="tTeLUpIS2OsSrGD9bRgm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="tTeLUpIS2OsSrGD9bRgm-9" target="tTeLUpIS2OsSrGD9bRgm-24">
           <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xLOuLaZniZD7HD84lKNi" name="1期demo体验流程">
+    <mxGraphModel grid="1" dx="1422" dy="792" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="ZT9cLOYJo7Q0I5YVBqoR-0" />
+        <mxCell id="ZT9cLOYJo7Q0I5YVBqoR-1" parent="ZT9cLOYJo7Q0I5YVBqoR-0" />
+        <mxCell id="Wb7ARKcY9Is38K5iaJax-5" value="" parent="ZT9cLOYJo7Q0I5YVBqoR-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ZT9cLOYJo7Q0I5YVBqoR-2" target="nq0lwGt3px3fvZAt79qh-1">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="ZT9cLOYJo7Q0I5YVBqoR-2" value="安装 iOS Demo" parent="ZT9cLOYJo7Q0I5YVBqoR-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" width="140" height="60" x="500" y="90" />
+        </mxCell>
+        <mxCell id="Wb7ARKcY9Is38K5iaJax-10" parent="ZT9cLOYJo7Q0I5YVBqoR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="nq0lwGt3px3fvZAt79qh-1" target="Wb7ARKcY9Is38K5iaJax-0">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="Wb7ARKcY9Is38K5iaJax-12" parent="ZT9cLOYJo7Q0I5YVBqoR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="nq0lwGt3px3fvZAt79qh-1" target="Wb7ARKcY9Is38K5iaJax-1">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="nq0lwGt3px3fvZAt79qh-1" value="体验默认配置" parent="ZT9cLOYJo7Q0I5YVBqoR-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" width="140" height="60" x="500" y="180" />
+        </mxCell>
+        <mxCell id="Wb7ARKcY9Is38K5iaJax-11" value="" parent="ZT9cLOYJo7Q0I5YVBqoR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="Wb7ARKcY9Is38K5iaJax-0" target="Wb7ARKcY9Is38K5iaJax-2">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="Wb7ARKcY9Is38K5iaJax-0" value="在体验群内联系产品同学申请SDK配置权限" parent="ZT9cLOYJo7Q0I5YVBqoR-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" width="140" height="60" x="390" y="300" />
+        </mxCell>
+        <mxCell id="Wb7ARKcY9Is38K5iaJax-14" parent="ZT9cLOYJo7Q0I5YVBqoR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="Wb7ARKcY9Is38K5iaJax-1" target="Wb7ARKcY9Is38K5iaJax-16">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="Wb7ARKcY9Is38K5iaJax-1" value="在体验群内联系测试同学修改配置" parent="ZT9cLOYJo7Q0I5YVBqoR-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" width="140" height="60" x="605" y="300" />
+        </mxCell>
+        <mxCell id="Wb7ARKcY9Is38K5iaJax-15" parent="ZT9cLOYJo7Q0I5YVBqoR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="Wb7ARKcY9Is38K5iaJax-2" target="Wb7ARKcY9Is38K5iaJax-16">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="Wb7ARKcY9Is38K5iaJax-2" value="自主修改配置" parent="ZT9cLOYJo7Q0I5YVBqoR-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" width="140" height="60" x="390" y="400" />
+        </mxCell>
+        <mxCell id="Wb7ARKcY9Is38K5iaJax-13" value="体验完成" parent="ZT9cLOYJo7Q0I5YVBqoR-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" width="140" height="60" x="500" y="600" />
+        </mxCell>
+        <mxCell id="Wb7ARKcY9Is38K5iaJax-17" value="" parent="ZT9cLOYJo7Q0I5YVBqoR-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="Wb7ARKcY9Is38K5iaJax-16" target="Wb7ARKcY9Is38K5iaJax-13">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="Wb7ARKcY9Is38K5iaJax-16" value="配置修改后需杀掉进程&lt;br&gt;重启Demo体验新配置" parent="ZT9cLOYJo7Q0I5YVBqoR-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" width="140" height="60" x="500" y="500" />
         </mxCell>
       </root>
     </mxGraphModel>
