@@ -1,4 +1,4 @@
-<mxfile version="13.4.0" type="github" pages="4" etag="YisUrew4NCg1NfGYizIR" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" modified="2020-07-10T01:59:03.576Z" host="app.diagrams.net">
+<mxfile version="13.4.0" type="github" pages="4" etag="6a8HPMychRxRw6cl7vcZ" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" modified="2020-07-10T02:04:29.733Z" host="app.diagrams.net">
   <diagram id="GYQ3esFa7Fkubw0HNPwo" name="账户注册流程">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1654" pageWidth="1169" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="792" dx="1422">
       <root>
@@ -740,7 +740,7 @@
           <mxGeometry as="geometry" y="2200" x="560" height="60" width="140" />
         </mxCell>
         <mxCell id="ZLC3hkQ36-9cqIyuTcf3-22" value="进入游戏" parent="_WdI8KaVdCBwMsiBsIQj-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
-          <mxGeometry as="geometry" y="2310" x="410" height="60" width="140" />
+          <mxGeometry as="geometry" y="2310" x="420" height="60" width="140" />
         </mxCell>
       </root>
     </mxGraphModel>
